@@ -12,4 +12,4 @@ Example 1 | Example 2
 These results illustrate the electric field strength and direction around point particles. 
 
 
-![](https://github.com/Mbiushelix/field-mapping/blob/main/results/electric%20field%201.png)
+![](https://github.com/Mbiushelix/field-mapping/blob/main/results/LJ%20potensial%20.png)
