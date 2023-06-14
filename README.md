@@ -15,3 +15,4 @@ These results illustrate the electric field strength and direction around point 
 
 ### Lennard-Jones potensial 
 ![](https://github.com/Mbiushelix/field-mapping/blob/main/results/LJ%20potensial%20.png)
+LJ for Argon
